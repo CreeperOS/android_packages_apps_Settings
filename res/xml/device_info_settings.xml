@@ -48,6 +48,13 @@
                     android:targetClass="com.ota.updates.OtaUpdates" />
         </PreferenceScreen>
 
+        <!-- About Resurrection -->        
+       <PreferenceScreen
+        android:key="about_rom"
+        android:fragment="com.android.settings.creeperos.About"
+        android:title="@string/about_rr_settings"
+        android:summary="@string/about_r0m_summary" />
+
         <!-- Advanced mode -->
         <com.android.settings.cyanogenmod.CMSecureSettingSwitchPreference
             android:key="advanced_mode"
