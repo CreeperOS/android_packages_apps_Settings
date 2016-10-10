@@ -34,10 +34,10 @@
         </PreferenceScreen>
 
                 <!-- Mod version -->
-        <Preference android:key="mod_version"
+        <Preference android:key="creeper_version"
                 style="?android:preferenceInformationStyle"
-                android:title="@string/mod_version"
-                android:summary="@string/mod_version_default" />
+                android:title="@string/creeper_version"
+                android:summary="@string/creeper_version_default" />
 
         <!-- CreeperOS Updates -->
         <PreferenceScreen android:key="cm_updates"
