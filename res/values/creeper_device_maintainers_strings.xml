@@ -20,20 +20,23 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 	
 	<string name="device_maintainers_title">Devices and Maintainers</string>
-	<string name="device_maintainers_title_summary">List of devices and their Resurrection ROM maintainers</string>
+	<string name="device_maintainers_title_summary">List of devices and their CreeperOS maintainers</string>
 
 	<string name="device_category_samsung_title">SAMSUNG</string>
 	<string name="device_category_motorola_title">MOTOROLA</string>
     <string name="device_category_huawei_title">HUAWEI</string>
 	
 	<string name="maintainers_note_title">Note</string>
-	<string name="maintainers_note_title_summary">Send a PM to \'Varun Date\' at Hangouts containing the link to your ROM thread if you want your name to be added in Device Maintainers list.</string>
+	<string name="maintainers_note_title_summary">Send a PM to \'ROM-PacMe\' at Hangouts containing the link to your ROM thread if you want your name to be added in Device Maintainers list.</string>
  
     <string name="device_golden">Galaxy S3 Mini</string>
 	<string name="device_golden_summary">Golden \nMaintainer - ROM-PacMe</string>
 	
 	<string name="device_hwy635">Huawei y635</string>
 	<string name="device_hwy635_summary">hwY635 \nMaintainer - CarlosArriagaCM</string>
-	
+
+    <string name="device_y6">Huawei Y6</string>
+    <string name="device_y6_summary">hwy6 \nMaintainer - Efran</string>
+
 	
 </resources>
