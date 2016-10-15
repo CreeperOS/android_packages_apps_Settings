@@ -31,6 +31,13 @@
         android:summary="@string/device_hwy635_summary"
         android:selectable="false" 
         android:title="@string/device_hwy635" />
+
+    <Preference
+        android:id="@+id/device_y6"
+        android:icon="@drawable/phone_tint"
+        android:summary="@string/device_y6_summary"
+        android:selectable="false"
+        android:title="@string/device_y6"/>
         
   </PreferenceCategory>
    
